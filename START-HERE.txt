@@ -1,0 +1,7 @@
+FINAL COHESIVE VERSION
+
+The secondary page is now a single professional “Experience & Media” page.
+The copy is tighter, Humanitree is not a standalone headline, and oversized typography has been reduced.
+Experience, evidence and selected media are presented together in one consistent layout.
+
+Deploy this ZIP to the existing Netlify site.
